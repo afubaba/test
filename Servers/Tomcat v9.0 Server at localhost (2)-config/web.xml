@@ -4313,7 +4313,7 @@
         <mime-type>audio/x-ms-wma</mime-type>
     </mime-mapping>
     <mime-mapping>
-        <extension>wmd</extension>
+        <extension>wmdaa</extension>
         <mime-type>application/x-ms-wmd</mime-type>
     </mime-mapping>
     <mime-mapping>
